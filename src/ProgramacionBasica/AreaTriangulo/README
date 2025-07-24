@@ -1,0 +1,8 @@
+Cálculo del área de un triangulo
+Haz un programa que pida la base y la altura de un triangulo y te calcule su área.
+run:
+¿Como te llamas? Pepe
+Hola Pepe! Vamos a calcular el area de un triangulo. :-)
+- Base: 7
+- Altura: 4
+El area de un triangulo de base 7.0 y altura 4.0 es 14.0.
