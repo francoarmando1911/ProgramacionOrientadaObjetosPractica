@@ -1,0 +1,7 @@
+Implementad un programa que ordene un vector de enteros utilizando el algoritmo de ordenamiento
+por inserción. Implementad otro que lo ordene utilizando el algoritmo de ordenamiento de burbuja.
+Ver que en algoritmo de inserción el vector se va ordenando de principio a final y en de la burbuja
+de final al principio. Ver que el algoritmo de la burbuja es menos optimo que el de inserción.
+En realidad nunca ordenaremos manualmente un vector (este ejercicio es sólo para que trabajar
+vuestra algorítmica). Si queremos ordenar un vector utilizaremos el método:
+static void Arrays.sort(Object[])
