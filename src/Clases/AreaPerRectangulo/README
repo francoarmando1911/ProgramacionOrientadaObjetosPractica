@@ -1,0 +1,16 @@
+A) Implementa la clase Punto (con x e y) y la clase Rectangulo (determinado por dos puntos) (las
+dos con sus constructores, getters, setters y toString()). La clase rectángulo tendrá además dos
+métodos para calcular su área y su perímetro. Implementa también una clase tester que cree dos
+puntos y un rectángulo a partir de estos dos puntos y que muestre el área y e perímetro de dicho
+rectángulo.
+
+run:
+Point 1: (3.0,2.0)
+Point 2: (0.0,0.0)
+Rectangle: ((3.0,2.0),(0.0,0.0))
+Area: 6.0
+Perimeter: 10.0
+BUILD SUCCESSFUL (total time: 1 second)
+
+B) Haz una segunda versión de Rectangulo donde las propiedades área y perímetro se implementen
+como atributos.
